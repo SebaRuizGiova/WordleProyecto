@@ -4,13 +4,12 @@
   {
    "id": 1,
    "title": "hello"
-  }]
-  {
- "posts": [
-  "id": 2,
-  "title": "bye"
+  }
   ],
  "profile": {
    "name": "typicode"
  }
+ "movie": {
+ "name": "Harry potter"
+}
 }
