@@ -9,11 +9,9 @@
  "profile": {
    "name": "typicode"
  },
- "diccionario": [
+ "diccionario": 
  {
- "palabra": "Harry potter",
-  "palabra": "hola",
-  "palabra": "chau"
+ "palabra": ["Harry potter", "hola"]
 }
- ]
+ 
 }
