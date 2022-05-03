@@ -11,7 +11,7 @@
   },
   "diccionario": 
    {
-      ["abeja", "torre", "barco", "perro", "silla", "tarro", "hacer", "jugar",
+     "palabra": ["abeja", "torre", "barco", "perro", "silla", "tarro", "hacer", "jugar",
                  "bajar", "volar", "cerro", "clavo", "ganar", "juego", "mojar", "picar",
                  "poner", "quemar", "arbol", "barco", "votar", "zorro", "apodo", "carga",
                  "barra", "regir", "circo", "jugar", "villa", "rollo"]
